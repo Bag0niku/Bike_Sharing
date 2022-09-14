@@ -18,7 +18,7 @@ Client has requested Tableau visualizations of NYC CitiBike bikeshare trip data 
 ## Presentation
 - An interactive Tableau Story Board is available to play with and filter yourself on the <a href="https://public.tableau.com/app/profile/nick.patterson4200/viz/BikeSharinginNewYork/Story1?publish=yes">Tableau Public</a> Hosting service.
 
-- The Dashbords are able to be filtered by Usertype, Gender and Week by clicking on the designated colored squaure.
+- The Dashbords are able to be filtered by Usertype, Gender and Week by clicking on the designated colored square.
 
 ## Summary 
 CitiBike is a bicycle renting service powered by Lyft with stations throughout the city of New York. I'd like to start by defining a few terms first:
@@ -28,13 +28,13 @@ CitiBike is a bicycle renting service powered by Lyft with stations throughout t
 ![](/Images/Who.png)
 
 - With an inventory of 24,00+ bicycles and 1,500+ stations, 13,983 bicycles and 807 bike stations were active during the month of August 2019.
-- 2,344,224 Rides dring the month of August 2019 with a total ride time of 41,030,675 minutes, equivalent to 78 years if you were to measure it as one continueous stream.
+- 2,344,224 Rides dring the month of August 2019 with a total ride time of 41,030,675 minutes, equivalent to 78 years if you were to measure it as one continuous stream.
 
 ![](/Images/When.png)
 
 - The most common riders during the month of Augaust 2019 were male subscribers during "rush hour" for an average ride time of 15 to 20 minutes.
 - The best time of day to shuffle bikes around optimizing utilization will be Midnight to 5am.
-- There are stations in 4 of the 5 buroughs but the ones in manhattan are the most popular.
+- There are stations in 4 of the 5 buroughs but the ones in Manhattan are the most popular.
 
 ![](/Images/Where.png)
 
@@ -56,4 +56,4 @@ Additional Data required to:
 
 
 # References:
- - Ride Sharing Data from <a href="https://ride.citibikenyc.com/homepage">CitiBike's </a> historical data (August 2019), which they store <a href="https://s3.amazonaws.com/tripdata/index.html">here</a>.
+ - Ride Sharing Data from <a href="https://ride.citibikenyc.com/homepage">CitiBike</a>'s historical data (August 2019), which they store <a href="https://s3.amazonaws.com/tripdata/index.html">here</a>.
